@@ -1,0 +1,33 @@
+ @media screen and (max-width:500px){
+    .sub{display:none}
+  }
+  .gg1{
+    border-collapse:collapse;
+    border:1px solid #D8D8D8;
+    margin: 0px;
+    padding: 0px;
+
+  }
+  .gg1 a{
+    text-decoration: none;
+    color: #C1194E;
+    font-size: 18px;
+    font-weight:bold; 
+   }
+   .gg1 th{
+      background-color: #7A023C;
+      color: #EBEDF4;
+      font-size: 22px;
+      font-weight: bold;
+   }
+
+
+   .gg1 td{
+       background-color: rgba(255,255,255,0.3);
+       height: 32px;
+       text-align: center;
+   }
+   .sub{
+      font-size: 15px;
+      color: #7F1874;
+   }
